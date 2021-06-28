@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/OneDrive/Desktop/UNI/2nd YEAR/CompNet/lab3/Broadcast-recv/receiver.cpp
+winsock2.h
+C:/Users/andre/OneDrive/Desktop/UNI/2nd YEAR/CompNet/lab3/Broadcast-recv/winsock2.h
+WinSock2.h
+-
+iostream
+-
+conio.h
+-
+
